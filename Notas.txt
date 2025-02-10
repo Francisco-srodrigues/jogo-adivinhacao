@@ -1,0 +1,4 @@
+# Melhorias futuras:
+- Adicionar dificuldade (fácil, médio, difícil)
+- Permitir escolher um intervalo maior de números
+- Criar uma interface gráfica com Tkinter
