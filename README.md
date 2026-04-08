@@ -1,5 +1,5 @@
 # jogo-adivinhacao
-Um jogo simples onde você tenta adivinhar o númeroescolhido pelo programa
+Um jogo simples onde você tenta adivinhar o número escolhido pelo programa
 
 ## Como jogar?
 -Execute o script Python no terminal
